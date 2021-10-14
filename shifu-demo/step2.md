@@ -6,7 +6,7 @@
 
 获取集群所有Pods的状态 `kubectl get pods -A`{{execute}}
 
-此时应该会看到`controller`运行:
+此时应该会看到`controller`运行(如显示不是Running请多试几次):
 ```
 kubectl get pods --all-namespaces
 NAMESPACE            NAME                                                READY   STATUS    RESTARTS   AGE
