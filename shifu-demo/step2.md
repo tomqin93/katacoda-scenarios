@@ -10,5 +10,5 @@
 ```
 kubectl get pods --all-namespaces
 NAMESPACE            NAME                                                READY   STATUS    RESTARTS   AGE
-crd-system           crd-controller-manager-7bc78896b9-sq72b             2/2     Running   0          28m
+shifu-crd-system   shifu-crd-controller-manager-5b978dff5-tjrb4   2/2     Running   0          24s
 ```
