@@ -1,6 +1,6 @@
 在集群中安装***Shifu***
 
-下载解压 `wget --no-check-certificate -O shifu-setup.tar.gz https://edgenesis.com/wp-content/uploads/2021/10/shifu-setup.tar.gz && tar -zxvf shifu-setup.tar.gz && cd shifu`{{execute}}
+下载解压 `wget --no-check-certificate -O shifu-setup.tar.gz https://edgenesis.com/wp-content/uploads/2022/05/shifu-setup.tar.gz && tar -zxvf shifu-setup.tar.gz && cd shifu`{{execute}}
 
 安装  `bash ./test/scripts/deviceshifu-install.sh apply`{{execute}}
 
